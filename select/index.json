@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "SWEET NONFICTION",
+  "base_artist": "NiziU",
+  "createdAt": "2025-12-24T01:35:57.786220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SWEET NONFICTION",
+      "artist": "NiziU",
+      "has_synced": true,
+      "path": "select/01_SWEET_NONFICTION_NiziU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SWEET NONFICTION",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/02_SWEET_NONFICTION_NiziU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SWEET NONFICTION",
+      "artist": "NiziU",
+      "has_synced": true,
+      "path": "select/03_SWEET_NONFICTION_NiziU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SWEET NONFICTION",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_SWEET_NONFICTION_NiziU.txt"
+    }
+  ]
+}
